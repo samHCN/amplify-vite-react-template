@@ -2,7 +2,7 @@
   "auth": {
     "user_pool_id": "us-east-1_x3Ygsvt9b",
     "aws_region": "us-east-1",
-    "user_pool_client_id": "2rpedma03rt9da3mtf4gqed98g",
+    "user_pool_client_id": " ",
     "identity_pool_id": "us-east-1:6072b576-45ef-4f42-abf1-d15327e0963a",
     "mfa_methods": [],
     "standard_required_attributes": [
@@ -27,7 +27,7 @@
   "data": {
     "url": "https://y557v57nw5cepo2jrpmkakn4li.appsync-api.us-east-1.amazonaws.com/graphql",
     "aws_region": "us-east-1",
-    "api_key": "da2-r7ogcszkc5efdoc3bo5dq4vbpu",
+    "api_key": " ",
     "default_authorization_type": "API_KEY",
     "authorization_types": [
       "AMAZON_COGNITO_USER_POOLS",
